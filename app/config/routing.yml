@@ -1,0 +1,4 @@
+HogsApplicationBundle_default:
+    resource: "@HogsApplicationBundle/Controller/DefaultController.php"
+    type:     annotation
+    prefix:   /

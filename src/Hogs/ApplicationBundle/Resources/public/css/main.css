@@ -1,0 +1,43 @@
+body * {
+    font-family: 'Orienta', sans-serif;
+    color: antiquewhite;
+    text-shadow: 1px 1px 1px black;
+}
+
+body {
+    background-color: black;
+    background-image: url( '../img/background.jpg' );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Piedra', cursive;
+    font-weight: normal;
+    text-align: center;
+}
+
+div.page.container {
+    margin-top: 30px;
+    background-color: #444;
+    background-color: rgba( 0, 0, 0, 0.6 );
+    border-radius: 6px;
+}
+
+div.row {
+    margin: 20px auto;
+}
+
+div.row p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
