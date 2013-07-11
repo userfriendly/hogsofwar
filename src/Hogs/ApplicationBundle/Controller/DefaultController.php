@@ -21,11 +21,11 @@ class DefaultController extends Controller
      */
     public function vehiclesAction()
     {
-        $url = 'http://api.worldoftanks.eu/encyclopedia/vehicles/api/1.0/?source_token=WG-WoT_Assistant-1.3.2';
+        $url = 'http://dvstats.wargaming.net/userstats/2/stats/slice/?platform=android&server=eu&account_id=500487083&hours_ago=24';
         $browser = new Browser();
         $json = $browser->get( $url )->getContent();
         $data = json_decode( $json );
-        #echo "<pre>" . print_r( $data->data->items, true ) . "</pre>"; die(); exit;
+        echo "<pre>" . print_r( $data, true ) . "</pre>"; die(); exit;
         return $this->render( 'HogsApplicationBundle:Default:vehicles.html.twig', array(
             'vehicles' => $data->data->items,
             'json' => $json,
