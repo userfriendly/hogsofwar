@@ -1,4 +1,3 @@
-HogsApplicationBundle_default:
-    resource: "@HogsApplicationBundle/Controller/DefaultController.php"
-    type:     annotation
+HogsApplicationBundle:
+    resource: "@HogsApplicationBundle/Resources/config/routing.yml"
     prefix:   /
