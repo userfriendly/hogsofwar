@@ -5,5 +5,8 @@ app/cache/*
 app/logs/*
 vendor
 bin
+.buildpath
+.project
+.settings
 composer.phar
 composer.lock
