@@ -1,0 +1,6 @@
+services:
+    hogs.twig.application_extension:
+        class: Hogs\ApplicationBundle\Twig\Extension\ApplicationExtension
+        arguments: []
+        tags:
+            - { name: twig.extension }
