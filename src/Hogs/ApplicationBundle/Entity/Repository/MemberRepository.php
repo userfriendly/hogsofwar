@@ -50,9 +50,11 @@ class MemberRepository extends EntityRepository
             $playedVehicle = $member->getPlayedVehicle( $handle );
             if ( !$playedVehicle )
             {
+                $vehicle = $vehicleRepo->findOneByHandle( $handle );
+                if ( !$vehicle->getImageUrl() ) $vehicle->setImageUrl( trim( $playedVehicleData->image_url ));
                 $playedVehicle = new PlayedVehicle();
                 $playedVehicle->setMember( $member );
-                $playedVehicle->setVehicle( $vehicleRepo->findOneByHandle( $handle ));
+                $playedVehicle->setVehicle( $vehicle );
                 $em->persist( $member );
             }
             $battles = trim( $playedVehicleData->battle_count );
