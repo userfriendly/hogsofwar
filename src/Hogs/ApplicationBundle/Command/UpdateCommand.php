@@ -46,29 +46,30 @@ class UpdateCommand extends ContainerAwareCommand
         // CLAN DATA //
         ///////////////
         $output->writeln( '<comment>Retrieving member list from api.worldoftanks.eu</comment>' );
-        $url = str_replace( "%%CLAN_ID%%", $this->getContainer()->getParameter( 'clan_id' ), URL_CLAN );
+        $url = str_replace( "%%CLAN_ID%%", $this->getContainer()->getParameter( 'clan_id' ), self::URL_CLAN );
         $clanData = $this->getData( $url );
         $output->writeln( '<comment>Updating local database...</comment>' );
         $memberRepo = $em->getRepository( 'HogsApplicationBundle:Member' );
         $accountIds = array();
-        /* dev */ $cnt = 0;
+//        /* dev */ $cnt = 0;
         foreach ( $clanData->data->members as $member )
         {
-            /* dev */ if ( $cnt > 1 ) break;    // for testing purposes only query the first 2 players
+//             /* dev */ $cnt++;
+//             /* dev */ if ( $cnt > 2 ) break;    // for testing purposes only query the first 2 players
             sleep( self::PAUSE_BETWEEN_REQUESTS );
             /////////////////
             // MEMBER DATA //
             /////////////////
             $accountId = trim( $member->account_id );
-            if ( !$accountId ) throw new \Exception( "No such field in data: `account_id`" );
+            if ( !$accountId ) throw new \Exception( "No such field in data: account_id" );
             $accountIds[] = $accountId;
+            $accountName = trim( $member->account_name );
+            if ( !$accountName ) throw new \Exception( "No such field in data: account_name" );
             if ( $memberRepo->needsUpdate( $accountId ))
             {
-                $accountName = trim( $member->account_name );
-                if ( !account_name ) throw new \Exception( "No such field in data: `account_name`" );
                 $output->writeln( '<comment>Querying api.worldoftanks.eu for player ' . $accountName . '</comment>' );
-                $url = str_replace( "%%ACCOUNT_ID%%", $accountId, URL_PLAYER );
-                $memberRepo->synchronise( $this->getData( $url )->data );
+                $url = str_replace( "%%ACCOUNT_ID%%", $accountId, self::URL_PLAYER );
+                $memberRepo->synchronise( $accountId, $this->getData( $url )->data );
             }
             else $output->writeln( '<comment>Player ' . $accountName . '\'s data is recent enough</comment>' );
         }

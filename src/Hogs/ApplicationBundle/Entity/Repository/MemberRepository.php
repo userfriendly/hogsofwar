@@ -2,8 +2,6 @@
 
 namespace Hogs\ApplicationBundle\Entity\Repository;
 
-use Hogs\ApplicationBundle\Entity\Vehicle;
-
 use Doctrine\ORM\EntityRepository;
 use Hogs\ApplicationBundle\Entity\Member;
 use Hogs\ApplicationBundle\Entity\Vehicle;
@@ -21,11 +19,10 @@ class MemberRepository extends EntityRepository
      *
      * @return \Hogs\ApplicationBundle\Entity\Member
      */
-    public function synchronise( $object, $allVehicles )
+    public function synchronise( $accountId, $object )
     {
         $em = $this->getEntityManager();
         // Synchronise player data
-        $accountId = trim( $object->id );
         $member = $this->findOneByAccountId( $accountId );
         if ( !$member )
         {
@@ -55,7 +52,7 @@ class MemberRepository extends EntityRepository
                 $playedVehicle = new PlayedVehicle();
                 $playedVehicle->setMember( $member );
                 $playedVehicle->setVehicle( $vehicle );
-                $em->persist( $member );
+                $em->persist( $playedVehicle );
             }
             $battles = trim( $playedVehicleData->battle_count );
             $wins = trim( $playedVehicleData->win_count );
@@ -64,6 +61,7 @@ class MemberRepository extends EntityRepository
                 $playedVehicle->setBattles( $battles );
                 $playedVehicle->setWins( $wins );
             }
+
         }
         return $member;
     }
@@ -80,7 +78,7 @@ class MemberRepository extends EntityRepository
         $member = $this->findOneByAccountId( $accountId );
         if ( !$member ) return true;
         $now = new \DateTime();
-        $updateTime = $member->getUpdatedAt()->modify( 'PT23H' );
+        $updateTime = $member->getUpdatedAt()->modify( '+23 hours' );
         return $updateTime < $now;
     }
 
@@ -92,9 +90,7 @@ class MemberRepository extends EntityRepository
     public function cullTheHerd( $accountIds )
     {
         $qb = $this->createQueryBuilder( 'm' );
-        $fools = $qb->select( 'm' )
-                    ->from( 'HogsApplicationBundle:Member', 'm' )
-                    ->where( $qb->expr()->notIn( 'm.accountId', $accountIds ))
+        $fools = $qb->where( $qb->expr()->notIn( 'm.accountId', $accountIds ))
                     ->getQuery()->getResult();
         foreach ( $fools as $dumbAss ) $dumbAss->setActive( false );
     }
