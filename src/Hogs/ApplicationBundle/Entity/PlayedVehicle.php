@@ -31,22 +31,52 @@ class PlayedVehicle
     protected $vehicle;
 
     /**
-     * @ORM\Column(type="integer")
+     * @ORM\Column(type="integer", nullable=true)
      */
     protected $battles;
 
     /**
-     * @ORM\Column(type="integer")
+     * @ORM\Column(type="integer", nullable=true)
      */
     protected $wins;
 
     /**
-     * @ORM\Column(type="boolean")
+     * @ORM\Column(type="integer", nullable=true)
+     */
+    protected $spots;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true, name="damage_dealt")
+     */
+    protected $damageDealt;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true)
+     */
+    protected $kills;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true)
+     */
+    protected $survivals;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true, name="hits_percent")
+     */
+    protected $hitsPercent;
+
+    /**
+     * @ORM\Column(type="boolean", nullable=true)
      */
     protected $active;
 
     /**
-     * @ORM\Column(name="updated_at",type="datetime")
+     * @ORM\Column(type="datetime", nullable=true, name="last_battle_at")
+     */
+    protected $lastBattleAt;
+
+    /**
+     * @ORM\Column(type="datetime", name="updated_at")
      * @Gedmo\Timestampable(on="update")
      */
     protected $updatedAt;
@@ -114,10 +144,122 @@ class PlayedVehicle
     }
 
     /**
+     * Set spots
+     *
+     * @param integer $spots
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setSpots( $spots )
+    {
+        $this->spots = $spots;
+        return $this;
+    }
+
+    /**
+     * Get spots
+     *
+     * @return integer
+     */
+    public function getSpots()
+    {
+        return $this->spots;
+    }
+
+    /**
+     * Set damageDealt
+     *
+     * @param integer $damageDealt
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setDamageDealt( $damageDealt )
+    {
+        $this->damageDealt = $damageDealt;
+        return $this;
+    }
+
+    /**
+     * Get damageDealt
+     *
+     * @return integer
+     */
+    public function getDamageDealt()
+    {
+        return $this->damageDealt;
+    }
+
+    /**
+     * Set kills
+     *
+     * @param integer $kills
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setKills( $kills )
+    {
+        $this->kills = $kills;
+        return $this;
+    }
+
+    /**
+     * Get kills
+     *
+     * @return integer
+     */
+    public function getKills()
+    {
+        return $this->kills;
+    }
+
+    /**
+     * Set survivals
+     *
+     * @param integer $survivals
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setSurvivals( $survivals )
+    {
+        $this->survivals = $survivals;
+        return $this;
+    }
+
+    /**
+     * Get survivals
+     *
+     * @return integer
+     */
+    public function getSurvivals()
+    {
+        return $this->survivals;
+    }
+
+    /**
+     * Set hitsPercent
+     *
+     * @param integer $hits
+     * @param integer $shots
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setHitsPercent( $hits, $shots )
+    {
+    	$hitsPercent = $shots ? ( 100 / $shots ) * $hits : 0;
+        $this->hitsPercent = $hitsPercent;
+        return $this;
+    }
+
+    /**
+     * Get hitsPercent
+     *
+     * @return integer
+     */
+    public function getHitsPercent()
+    {
+        return $this->hitsPercent;
+    }
+
+    /**
      * Set active
      *
      * @param boolean $active
-     * @return \Hogs\ApplicationBundle\Entity\Member
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
      */
     public function setActive( $active )
     {
@@ -136,10 +278,32 @@ class PlayedVehicle
     }
 
     /**
+     * Set lastBattleAt
+     *
+     * @param \DateTime $lastBattleAt
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     */
+    public function setLastBattleAt( $lastBattleAt )
+    {
+        $this->lastBattleAt = $lastBattleAt;
+        return $this;
+    }
+
+    /**
+     * Get lastBattleAt
+     *
+     * @return \DateTime
+     */
+    public function getLastBattleAt()
+    {
+        return $this->lastBattleAt;
+    }
+
+    /**
      * Set updatedAt
      *
      * @param \DateTime $updatedAt
-     * @return \Hogs\ApplicationBundle\Entity\Member
+     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
      */
     public function setUpdatedAt( $updatedAt )
     {

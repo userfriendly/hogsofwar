@@ -34,11 +34,9 @@ class MemberRepository extends EntityRepository
         $member->setName       ( trim( $object->name ));
         $member->setBattles    ( trim( $object->summary->battles_count ));
         $member->setWins       ( trim( $object->summary->wins ));
-        $member->setDeaths     ( $member->getBattles() - trim( $object->summary->survived_battles ));
+        $member->setSurvivals  ( trim( $object->summary->survived_battles ));
         $member->setKills      ( trim( $object->battles->frags ));
-        $member->setDamageDealt( trim( $object->battles->damage_dealt ));
         $member->setHitsPercent( trim( $object->battles->hits_percents ));
-        $member->setSpots      ( trim( $object->battles->spotted ));
         // Synchronise played vehicle data
         $vehicleRepo = $em->getRepository( 'HogsApplicationBundle:Vehicle' );
         foreach ( $object->vehicles as $playedVehicleData )
@@ -58,6 +56,9 @@ class MemberRepository extends EntityRepository
             $wins = trim( $playedVehicleData->win_count );
             if ( $playedVehicle->getBattles() < $battles )
             {
+            	$lastPlayed = new \DateTime();
+            	$lastPlayed->modify( '-1 day' );
+                $playedVehicle->setUpdatedAt( $lastPlayed );
                 $playedVehicle->setActive( true );
                 $playedVehicle->setBattles( $battles );
                 $playedVehicle->setWins( $wins );

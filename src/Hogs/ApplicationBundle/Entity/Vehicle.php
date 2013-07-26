@@ -12,20 +12,7 @@ use Hogs\ApplicationBundle\Entity\PlayedVehicle;
  */
 class Vehicle
 {
-    const NATION_CHINA   = "china";
-    const NATION_FRANCE  = "france";
-    const NATION_GERMANY = "germany";
-    const NATION_UK      = "uk";
-    const NATION_USA     = "usa";
-    const NATION_USSR    = "ussr";
-
-    const TYPE_LIGHT    = "lightTank";
-    const TYPE_MEDIUM   = "mediumTank";
-    const TYPE_HEAVY    = "heavyTank";
-    const TYPE_TD       = "AT-SPG";
-    const TYPE_ARTY     = "SPG";
-
-    /**
+	/**
      * @ORM\Id
      * @ORM\Column(type="integer")
      * @ORM\GeneratedValue(strategy="AUTO")
@@ -48,9 +35,14 @@ class Vehicle
     protected $tier;
 
     /**
-     * @ORM\Column(type="string")
+     * @ORM\Column(type="integer")
      */
-    protected $nation;
+    protected $country;
+
+    /**
+     * @ORM\Column(type="integer")
+     */
+    protected $type;
 
     /**
      * @ORM\Column(type="string", name="contour_url", nullable=true)
@@ -157,25 +149,47 @@ class Vehicle
     }
 
     /**
-     * Set nation
+     * Set country
      *
-     * @param string $nation
+     * @param integer $country
      * @return \Hogs\ApplicationBundle\Entity\Vehicle
      */
-    public function setNation( $nation )
+    public function setCountry( $country )
     {
-        $this->nation = $nation;
+        $this->country = $country;
         return $this;
     }
 
     /**
-     * Get nation
+     * Get country
      *
-     * @return string
+     * @return integer
      */
-    public function getNation()
+    public function getCountry()
     {
-        return $this->nation;
+        return $this->country;
+    }
+
+    /**
+     * Set type
+     *
+     * @param integer $type
+     * @return \Hogs\ApplicationBundle\Entity\Vehicle
+     */
+    public function setType( $type )
+    {
+        $this->type = $type;
+        return $this;
+    }
+
+    /**
+     * Get type
+     *
+     * @return integer
+     */
+    public function getType()
+    {
+        return $this->type;
     }
 
     /**

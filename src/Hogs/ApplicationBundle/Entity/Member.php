@@ -59,17 +59,7 @@ class Member
     /**
      * @ORM\Column(type="integer")
      */
-    protected $deaths;
-
-    /**
-     * @ORM\Column(type="integer")
-     */
-    protected $spots;
-
-    /**
-     * @ORM\Column(type="integer", name="damage_dealt")
-     */
-    protected $damageDealt;
+    protected $survivals;
 
     /**
      * @ORM\Column(type="integer", name="hits_percent")
@@ -77,7 +67,12 @@ class Member
     protected $hitsPercent;
 
     /**
-     * @ORM\Column(name="updated_at",type="datetime")
+     * @ORM\Column(type="datetime", nullable=true, name="last_battle_at")
+     */
+    protected $lastBattleAt;
+
+    /**
+     * @ORM\Column(type="datetime", name="updated_at")
      * @Gedmo\Timestampable(on="update")
      */
     protected $updatedAt;
@@ -260,69 +255,25 @@ class Member
     }
 
     /**
-     * Set deaths
+     * Set survivals
      *
-     * @param integer $deaths
+     * @param integer $survivals
      * @return \Hogs\ApplicationBundle\Entity\Member
      */
-    public function setDeaths( $deaths )
+    public function setSurvivals( $survivals )
     {
-        $this->deaths = $deaths;
+        $this->survivals = $survivals;
         return $this;
     }
 
     /**
-     * Get deaths
+     * Get survivals
      *
      * @return integer
      */
-    public function getDeaths()
+    public function getSurvivals()
     {
-        return $this->deaths;
-    }
-
-    /**
-     * Set spots
-     *
-     * @param integer $spots
-     * @return \Hogs\ApplicationBundle\Entity\Member
-     */
-    public function setSpots( $spots )
-    {
-        $this->spots = $spots;
-        return $this;
-    }
-
-    /**
-     * Get spots
-     *
-     * @return integer
-     */
-    public function getSpots()
-    {
-        return $this->spots;
-    }
-
-    /**
-     * Set damageDealt
-     *
-     * @param integer $damageDealt
-     * @return \Hogs\ApplicationBundle\Entity\Member
-     */
-    public function setDamageDealt( $damageDealt )
-    {
-        $this->damageDealt = $damageDealt;
-        return $this;
-    }
-
-    /**
-     * Get damageDealt
-     *
-     * @return integer
-     */
-    public function getDamageDealt()
-    {
-        return $this->damageDealt;
+        return $this->survivals;
     }
 
     /**
@@ -345,6 +296,28 @@ class Member
     public function getHitsPercent()
     {
         return $this->hitsPercent;
+    }
+
+    /**
+     * Set lastBattleAt
+     *
+     * @param \DateTime $lastBattleAt
+     * @return \Hogs\ApplicationBundle\Entity\Member
+     */
+    public function setLastBattleAt( $lastBattleAt )
+    {
+        $this->lastBattleAt = $lastBattleAt;
+        return $this;
+    }
+
+    /**
+     * Get lastBattleAt
+     *
+     * @return \DateTime
+     */
+    public function getLastBattleAt()
+    {
+        return $this->lastBattleAt;
     }
 
     /**

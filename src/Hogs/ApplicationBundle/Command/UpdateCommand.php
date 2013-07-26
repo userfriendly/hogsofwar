@@ -50,12 +50,9 @@ class UpdateCommand extends ContainerAwareCommand
         $output->writeln( '<comment>Updating local database...</comment>' );
         $memberRepo = $em->getRepository( 'HogsApplicationBundle:Member' );
         $accountIds = array();
-//        /* dev */ $cnt = 0;
+        /* dev */ $cnt = 0;
         foreach ( $clanData->data->members as $member )
         {
-//             /* dev */ $cnt++;
-//             /* dev */ if ( $cnt > 2 ) break;    // for testing purposes only query the first 2 players
-            sleep( self::PAUSE_BETWEEN_REQUESTS );
             /////////////////
             // MEMBER DATA //
             /////////////////
@@ -64,6 +61,14 @@ class UpdateCommand extends ContainerAwareCommand
             $accountIds[] = $accountId;
             $accountName = trim( $member->account_name );
             if ( !$accountName ) throw new \Exception( "No such field in data: account_name" );
+            /* dev */
+        	$cnt++;
+        	if ( $cnt > 2 ) // for testing purposes only query the first 2 players and myself
+        	{
+        		if ( $accountName != 'userfriendly' ) continue;
+        	}
+            /* dev */
+            sleep( self::PAUSE_BETWEEN_REQUESTS );
             if ( $memberRepo->needsUpdate( $accountId ))
             {
                 $output->writeln( '<comment>Querying api.worldoftanks.eu for player ' . $accountName . '</comment>' );
