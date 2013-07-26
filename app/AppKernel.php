@@ -20,6 +20,10 @@ class AppKernel extends Kernel
             new JMS\AopBundle\JMSAopBundle(),
             new JMS\DiExtraBundle\JMSDiExtraBundle($this),
             new JMS\SecurityExtraBundle\JMSSecurityExtraBundle(),
+            new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
+            new FOS\UserBundle\FOSUserBundle(),
+            new Fp\OpenIdBundle\FpOpenIdBundle(),
+            new WG\OpenIdUserBundle\WGOpenIdUserBundle(),
             // Application bundle
             new Hogs\ApplicationBundle\HogsApplicationBundle(),
         );

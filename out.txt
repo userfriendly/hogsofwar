@@ -1,0 +1,3304 @@
+Start executing command...
+Array
+(
+    [0] => stdClass Object
+        (
+            [name] => MS-1
+            [level] => 1
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-ms-1.png
+            [type] => lightTank
+            [id] => MS-1
+        )
+
+    [1] => stdClass Object
+        (
+            [name] => BT-2
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-bt-2.png
+            [type] => lightTank
+            [id] => BT-2
+        )
+
+    [2] => stdClass Object
+        (
+            [name] => T-26
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-26.png
+            [type] => lightTank
+            [id] => T-26
+        )
+
+    [3] => stdClass Object
+        (
+            [name] => T-60
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-60.png
+            [type] => lightTank
+            [id] => T-60
+        )
+
+    [4] => stdClass Object
+        (
+            [name] => Tetrarch
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-tetrarch_ll.png
+            [type] => lightTank
+            [id] => Tetrarch_LL
+        )
+
+    [5] => stdClass Object
+        (
+            [name] => BT-7
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-bt-7.png
+            [type] => lightTank
+            [id] => BT-7
+        )
+
+    [6] => stdClass Object
+        (
+            [name] => T-46
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-46.png
+            [type] => lightTank
+            [id] => T-46
+        )
+
+    [7] => stdClass Object
+        (
+            [name] => T-70
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-70.png
+            [type] => lightTank
+            [id] => T-70
+        )
+
+    [8] => stdClass Object
+        (
+            [name] => M3 Light
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-m3_stuart_ll.png
+            [type] => lightTank
+            [id] => M3_Stuart_LL
+        )
+
+    [9] => stdClass Object
+        (
+            [name] => T-127
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-127.png
+            [type] => lightTank
+            [id] => T-127
+        )
+
+    [10] => stdClass Object
+        (
+            [name] => LTP
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-ltp.png
+            [type] => lightTank
+            [id] => LTP
+        )
+
+    [11] => stdClass Object
+        (
+            [name] => A-20
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-a-20.png
+            [type] => lightTank
+            [id] => A-20
+        )
+
+    [12] => stdClass Object
+        (
+            [name] => T-50
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-50.png
+            [type] => lightTank
+            [id] => T-50
+        )
+
+    [13] => stdClass Object
+        (
+            [name] => T-80
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t80.png
+            [type] => lightTank
+            [id] => T80
+        )
+
+    [14] => stdClass Object
+        (
+            [name] => Valentine II
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-valentine_ll.png
+            [type] => lightTank
+            [id] => Valentine_LL
+        )
+
+    [15] => stdClass Object
+        (
+            [name] => T-50-2
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t_50_2.png
+            [type] => lightTank
+            [id] => T_50_2
+        )
+
+    [16] => stdClass Object
+        (
+            [name] => MT-25
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-mt25.png
+            [type] => lightTank
+            [id] => MT25
+        )
+
+    [17] => stdClass Object
+        (
+            [name] => T-28
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-28.png
+            [type] => mediumTank
+            [id] => T-28
+        )
+
+    [18] => stdClass Object
+        (
+            [name] => T-34
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-34.png
+            [type] => mediumTank
+            [id] => T-34
+        )
+
+    [19] => stdClass Object
+        (
+            [name] => Matilda IV
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-matilda_ii_ll.png
+            [type] => mediumTank
+            [id] => Matilda_II_LL
+        )
+
+    [20] => stdClass Object
+        (
+            [name] => T-34-85
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-34-85.png
+            [type] => mediumTank
+            [id] => T-34-85
+        )
+
+    [21] => stdClass Object
+        (
+            [name] => T-43
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-43.png
+            [type] => mediumTank
+            [id] => T-43
+        )
+
+    [22] => stdClass Object
+        (
+            [name] => KV-13
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv-13.png
+            [type] => mediumTank
+            [id] => KV-13
+        )
+
+    [23] => stdClass Object
+        (
+            [name] => T-44
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-44.png
+            [type] => mediumTank
+            [id] => T-44
+        )
+
+    [24] => stdClass Object
+        (
+            [name] => T-54
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t-54.png
+            [type] => mediumTank
+            [id] => T-54
+        )
+
+    [25] => stdClass Object
+        (
+            [name] => T-62A
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t62a.png
+            [type] => mediumTank
+            [id] => T62A
+        )
+
+    [26] => stdClass Object
+        (
+            [name] => KV-1
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv1.png
+            [type] => heavyTank
+            [id] => KV1
+        )
+
+    [27] => stdClass Object
+        (
+            [name] => Churchill III
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-churchill_ll.png
+            [type] => heavyTank
+            [id] => Churchill_LL
+        )
+
+    [28] => stdClass Object
+        (
+            [name] => KV-1S
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv-1s.png
+            [type] => heavyTank
+            [id] => KV-1s
+        )
+
+    [29] => stdClass Object
+        (
+            [name] => KV-2
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv2.png
+            [type] => heavyTank
+            [id] => KV2
+        )
+
+    [30] => stdClass Object
+        (
+            [name] => T-150
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-t150.png
+            [type] => heavyTank
+            [id] => T150
+        )
+
+    [31] => stdClass Object
+        (
+            [name] => IS
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-is.png
+            [type] => heavyTank
+            [id] => IS
+        )
+
+    [32] => stdClass Object
+        (
+            [name] => KV-3
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv-3.png
+            [type] => heavyTank
+            [id] => KV-3
+        )
+
+    [33] => stdClass Object
+        (
+            [name] => IS-3
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-is-3.png
+            [type] => heavyTank
+            [id] => IS-3
+        )
+
+    [34] => stdClass Object
+        (
+            [name] => IS-6
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object252.png
+            [type] => heavyTank
+            [id] => Object252
+        )
+
+    [35] => stdClass Object
+        (
+            [name] => KV-4
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv4.png
+            [type] => heavyTank
+            [id] => KV4
+        )
+
+    [36] => stdClass Object
+        (
+            [name] => KV-5
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-kv-5.png
+            [type] => heavyTank
+            [id] => KV-5
+        )
+
+    [37] => stdClass Object
+        (
+            [name] => ST-I
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-st_i.png
+            [type] => heavyTank
+            [id] => ST_I
+        )
+
+    [38] => stdClass Object
+        (
+            [name] => IS-8
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-is8.png
+            [type] => heavyTank
+            [id] => IS8
+        )
+
+    [39] => stdClass Object
+        (
+            [name] => IS-4
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-is-4.png
+            [type] => heavyTank
+            [id] => IS-4
+        )
+
+    [40] => stdClass Object
+        (
+            [name] => IS-7
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-is-7.png
+            [type] => heavyTank
+            [id] => IS-7
+        )
+
+    [41] => stdClass Object
+        (
+            [name] => AT-1
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-at-1.png
+            [type] => AT-SPG
+            [id] => AT-1
+        )
+
+    [42] => stdClass Object
+        (
+            [name] => SU-76
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-76.png
+            [type] => AT-SPG
+            [id] => SU-76
+        )
+
+    [43] => stdClass Object
+        (
+            [name] => SU-85B
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-gaz-74b.png
+            [type] => AT-SPG
+            [id] => GAZ-74b
+        )
+
+    [44] => stdClass Object
+        (
+            [name] => SU-85
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-85.png
+            [type] => AT-SPG
+            [id] => SU-85
+        )
+
+    [45] => stdClass Object
+        (
+            [name] => SU-100
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-100.png
+            [type] => AT-SPG
+            [id] => SU-100
+        )
+
+    [46] => stdClass Object
+        (
+            [name] => SU-100Y
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su100y.png
+            [type] => AT-SPG
+            [id] => SU100Y
+        )
+
+    [47] => stdClass Object
+        (
+            [name] => SU-152
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-152.png
+            [type] => AT-SPG
+            [id] => SU-152
+        )
+
+    [48] => stdClass Object
+        (
+            [name] => SU-100M1
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su100m1.png
+            [type] => AT-SPG
+            [id] => SU100M1
+        )
+
+    [49] => stdClass Object
+        (
+            [name] => SU-122-44
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su122_44.png
+            [type] => AT-SPG
+            [id] => SU122_44
+        )
+
+    [50] => stdClass Object
+        (
+            [name] => ISU-152
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-isu-152.png
+            [type] => AT-SPG
+            [id] => ISU-152
+        )
+
+    [51] => stdClass Object
+        (
+            [name] => SU-101
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-101.png
+            [type] => AT-SPG
+            [id] => SU-101
+        )
+
+    [52] => stdClass Object
+        (
+            [name] => Object 704
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object_704.png
+            [type] => AT-SPG
+            [id] => Object_704
+        )
+
+    [53] => stdClass Object
+        (
+            [name] => SU-122-54
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su122_54.png
+            [type] => AT-SPG
+            [id] => SU122_54
+        )
+
+    [54] => stdClass Object
+        (
+            [name] => Object 268
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object268.png
+            [type] => AT-SPG
+            [id] => Object268
+        )
+
+    [55] => stdClass Object
+        (
+            [name] => Object 263
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object263.png
+            [type] => AT-SPG
+            [id] => Object263
+        )
+
+    [56] => stdClass Object
+        (
+            [name] => SU-18
+            [level] => 2
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-18.png
+            [type] => SPG
+            [id] => SU-18
+        )
+
+    [57] => stdClass Object
+        (
+            [name] => SU-26
+            [level] => 3
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-26.png
+            [type] => SPG
+            [id] => SU-26
+        )
+
+    [58] => stdClass Object
+        (
+            [name] => SU-5
+            [level] => 4
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-5.png
+            [type] => SPG
+            [id] => SU-5
+        )
+
+    [59] => stdClass Object
+        (
+            [name] => SU-122A
+            [level] => 5
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su122a.png
+            [type] => SPG
+            [id] => SU122A
+        )
+
+    [60] => stdClass Object
+        (
+            [name] => SU-8
+            [level] => 6
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-8.png
+            [type] => SPG
+            [id] => SU-8
+        )
+
+    [61] => stdClass Object
+        (
+            [name] => S-51
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-s-51.png
+            [type] => SPG
+            [id] => S-51
+        )
+
+    [62] => stdClass Object
+        (
+            [name] => SU-14-1
+            [level] => 7
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su14_1.png
+            [type] => SPG
+            [id] => SU14_1
+        )
+
+    [63] => stdClass Object
+        (
+            [name] => SU-14-2
+            [level] => 8
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-su-14.png
+            [type] => SPG
+            [id] => SU-14
+        )
+
+    [64] => stdClass Object
+        (
+            [name] => 212A
+            [level] => 9
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object_212.png
+            [type] => SPG
+            [id] => Object_212
+        )
+
+    [65] => stdClass Object
+        (
+            [name] => Object 261
+            [level] => 10
+            [nation] => ussr
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/ussr-object_261.png
+            [type] => SPG
+            [id] => Object_261
+        )
+
+    [66] => stdClass Object
+        (
+            [name] => Leichttraktor
+            [level] => 1
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-ltraktor.png
+            [type] => lightTank
+            [id] => Ltraktor
+        )
+
+    [67] => stdClass Object
+        (
+            [name] => Pz.Kpfw. 35 (t)
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pz35t.png
+            [type] => lightTank
+            [id] => Pz35t
+        )
+
+    [68] => stdClass Object
+        (
+            [name] => Pz.Kpfw. II
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzii.png
+            [type] => lightTank
+            [id] => PzII
+        )
+
+    [69] => stdClass Object
+        (
+            [name] => Pz.Kpfw. I
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzi.png
+            [type] => lightTank
+            [id] => PzI
+        )
+
+    [70] => stdClass Object
+        (
+            [name] => Pz.Kpfw. 38H 735 (f)
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-h39_captured.png
+            [type] => lightTank
+            [id] => H39_captured
+        )
+
+    [71] => stdClass Object
+        (
+            [name] => Pz.Kpfw. 38 (t)
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pz38t.png
+            [type] => lightTank
+            [id] => Pz38t
+        )
+
+    [72] => stdClass Object
+        (
+            [name] => Pz.Kpfw. III Ausf. A
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pziii_a.png
+            [type] => lightTank
+            [id] => PzIII_A
+        )
+
+    [73] => stdClass Object
+        (
+            [name] => Pz.Kpfw. I Ausf. C
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzi_ausf_c.png
+            [type] => lightTank
+            [id] => PzI_ausf_C
+        )
+
+    [74] => stdClass Object
+        (
+            [name] => Pz.Kpfw. II Ausf. G
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pz_ii_ausfg.png
+            [type] => lightTank
+            [id] => Pz_II_AusfG
+        )
+
+    [75] => stdClass Object
+        (
+            [name] => Pz.Kpfw. II Ausf. J
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzii_j.png
+            [type] => lightTank
+            [id] => PzII_J
+        )
+
+    [76] => stdClass Object
+        (
+            [name] => T-15
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-t-15.png
+            [type] => lightTank
+            [id] => T-15
+        )
+
+    [77] => stdClass Object
+        (
+            [name] => Pz.Kpfw. II Luchs
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzii_luchs.png
+            [type] => lightTank
+            [id] => PzII_Luchs
+        )
+
+    [78] => stdClass Object
+        (
+            [name] => Pz.Kpfw. 38 (t) n.A.
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pz38_na.png
+            [type] => lightTank
+            [id] => Pz38_NA
+        )
+
+    [79] => stdClass Object
+        (
+            [name] => VK 16.02 Leopard
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk1602.png
+            [type] => lightTank
+            [id] => VK1602
+        )
+
+    [80] => stdClass Object
+        (
+            [name] => VK 28.01
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk2801.png
+            [type] => lightTank
+            [id] => VK2801
+        )
+
+    [81] => stdClass Object
+        (
+            [name] => Aufklärungspanzer Panther
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-auf_panther.png
+            [type] => lightTank
+            [id] => Auf_Panther
+        )
+
+    [82] => stdClass Object
+        (
+            [name] => Pz.Kpfw. S35 739 (f)
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-s35_captured.png
+            [type] => mediumTank
+            [id] => S35_captured
+        )
+
+    [83] => stdClass Object
+        (
+            [name] => Pz.Kpfw. III
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pziii.png
+            [type] => mediumTank
+            [id] => PzIII
+        )
+
+    [84] => stdClass Object
+        (
+            [name] => VK 20.01 (D)
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk2001db.png
+            [type] => mediumTank
+            [id] => VK2001DB
+        )
+
+    [85] => stdClass Object
+        (
+            [name] => Pz.Kpfw. IV
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pziv.png
+            [type] => mediumTank
+            [id] => PzIV
+        )
+
+    [86] => stdClass Object
+        (
+            [name] => Pz.Kpfw. III/IV
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pziii_iv.png
+            [type] => mediumTank
+            [id] => PzIII_IV
+        )
+
+    [87] => stdClass Object
+        (
+            [name] => T-25
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-t-25.png
+            [type] => mediumTank
+            [id] => T-25
+        )
+
+    [88] => stdClass Object
+        (
+            [name] => VK 36.01 (H)
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk3601h.png
+            [type] => mediumTank
+            [id] => VK3601H
+        )
+
+    [89] => stdClass Object
+        (
+            [name] => VK 30.01 (H)
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk3001h.png
+            [type] => mediumTank
+            [id] => VK3001H
+        )
+
+    [90] => stdClass Object
+        (
+            [name] => VK 30.01 (P)
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk3001p.png
+            [type] => mediumTank
+            [id] => VK3001P
+        )
+
+    [91] => stdClass Object
+        (
+            [name] => VK 30.01 (D)
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk3002db_v1.png
+            [type] => mediumTank
+            [id] => VK3002DB_V1
+        )
+
+    [92] => stdClass Object
+        (
+            [name] => Pz.Kpfw. V/IV
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzv_pziv.png
+            [type] => mediumTank
+            [id] => PzV_PzIV
+        )
+
+    [93] => stdClass Object
+        (
+            [name] => Pz.Kpfw. IV Schmalturm
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pziv_schmalturm.png
+            [type] => mediumTank
+            [id] => PzIV_schmalturm
+        )
+
+    [94] => stdClass Object
+        (
+            [name] => Pz.Kpfw. V Panther
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzv.png
+            [type] => mediumTank
+            [id] => PzV
+        )
+
+    [95] => stdClass Object
+        (
+            [name] => VK 30.02 (D)
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk3002db.png
+            [type] => mediumTank
+            [id] => VK3002DB
+        )
+
+    [96] => stdClass Object
+        (
+            [name] => Panther/M10
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-panther_m10.png
+            [type] => mediumTank
+            [id] => Panther_M10
+        )
+
+    [97] => stdClass Object
+        (
+            [name] => Panther II
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-panther_ii.png
+            [type] => mediumTank
+            [id] => Panther_II
+        )
+
+    [98] => stdClass Object
+        (
+            [name] => Indien-Panzer
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-indien_panzer.png
+            [type] => mediumTank
+            [id] => Indien_Panzer
+        )
+
+    [99] => stdClass Object
+        (
+            [name] => E-50
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-e-50.png
+            [type] => mediumTank
+            [id] => E-50
+        )
+
+    [100] => stdClass Object
+        (
+            [name] => Leopard prototyp A
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pro_ag_a.png
+            [type] => mediumTank
+            [id] => Pro_Ag_A
+        )
+
+    [101] => stdClass Object
+        (
+            [name] => E-50 Ausf. M
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-e50_ausf_m.png
+            [type] => mediumTank
+            [id] => E50_Ausf_M
+        )
+
+    [102] => stdClass Object
+        (
+            [name] => Leopard 1
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-leopard1.png
+            [type] => mediumTank
+            [id] => Leopard1
+        )
+
+    [103] => stdClass Object
+        (
+            [name] => Pz.Kpfw. B2 740 (f)
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-b-1bis_captured.png
+            [type] => heavyTank
+            [id] => B-1bis_captured
+        )
+
+    [104] => stdClass Object
+        (
+            [name] => Pz.Kpfw. VI Tiger
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzvi.png
+            [type] => heavyTank
+            [id] => PzVI
+        )
+
+    [105] => stdClass Object
+        (
+            [name] => Pz.Kpfw. VI Tiger (P)
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzvi_tiger_p.png
+            [type] => heavyTank
+            [id] => PzVI_Tiger_P
+        )
+
+    [106] => stdClass Object
+        (
+            [name] => Pz.Kpfw. Tiger II
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pzvib_tiger_ii.png
+            [type] => heavyTank
+            [id] => PzVIB_Tiger_II
+        )
+
+    [107] => stdClass Object
+        (
+            [name] => VK 45.02 (P) Ausf. A
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk4502a.png
+            [type] => heavyTank
+            [id] => VK4502A
+        )
+
+    [108] => stdClass Object
+        (
+            [name] => Löwe
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-lowe.png
+            [type] => heavyTank
+            [id] => Lowe
+        )
+
+    [109] => stdClass Object
+        (
+            [name] => VK 45.02 (P) Ausf. B
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-vk4502p.png
+            [type] => heavyTank
+            [id] => VK4502P
+        )
+
+    [110] => stdClass Object
+        (
+            [name] => E-75
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-e-75.png
+            [type] => heavyTank
+            [id] => E-75
+        )
+
+    [111] => stdClass Object
+        (
+            [name] => Maus
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-maus.png
+            [type] => heavyTank
+            [id] => Maus
+        )
+
+    [112] => stdClass Object
+        (
+            [name] => E-100
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-e-100.png
+            [type] => heavyTank
+            [id] => E-100
+        )
+
+    [113] => stdClass Object
+        (
+            [name] => Panzerjäger I
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-panzerjager_i.png
+            [type] => AT-SPG
+            [id] => PanzerJager_I
+        )
+
+    [114] => stdClass Object
+        (
+            [name] => Marder II
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-g20_marder_ii.png
+            [type] => AT-SPG
+            [id] => G20_Marder_II
+        )
+
+    [115] => stdClass Object
+        (
+            [name] => Hetzer
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-hetzer.png
+            [type] => AT-SPG
+            [id] => Hetzer
+        )
+
+    [116] => stdClass Object
+        (
+            [name] => StuG III
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-stugiii.png
+            [type] => AT-SPG
+            [id] => StuGIII
+        )
+
+    [117] => stdClass Object
+        (
+            [name] => JagdPz IV
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdpziv.png
+            [type] => AT-SPG
+            [id] => JagdPzIV
+        )
+
+    [118] => stdClass Object
+        (
+            [name] => Dicker Max
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-dickermax.png
+            [type] => AT-SPG
+            [id] => DickerMax
+        )
+
+    [119] => stdClass Object
+        (
+            [name] => Jagdpanther
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdpanther.png
+            [type] => AT-SPG
+            [id] => JagdPanther
+        )
+
+    [120] => stdClass Object
+        (
+            [name] => Ferdinand
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-ferdinand.png
+            [type] => AT-SPG
+            [id] => Ferdinand
+        )
+
+    [121] => stdClass Object
+        (
+            [name] => Jagdpanther II
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdpantherii.png
+            [type] => AT-SPG
+            [id] => JagdPantherII
+        )
+
+    [122] => stdClass Object
+        (
+            [name] => 8,8 cm PaK 43 Jagdtiger
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdtiger_sdkfz_185.png
+            [type] => AT-SPG
+            [id] => JagdTiger_SdKfz_185
+        )
+
+    [123] => stdClass Object
+        (
+            [name] => Jagdtiger
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdtiger.png
+            [type] => AT-SPG
+            [id] => JagdTiger
+        )
+
+    [124] => stdClass Object
+        (
+            [name] => JagdPz E-100
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-jagdpz_e100.png
+            [type] => AT-SPG
+            [id] => JagdPz_E100
+        )
+
+    [125] => stdClass Object
+        (
+            [name] => G.Pz. Mk. VI (e)
+            [level] => 2
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-gw_mk_vie.png
+            [type] => SPG
+            [id] => GW_Mk_VIe
+        )
+
+    [126] => stdClass Object
+        (
+            [name] => Sturmpanzer I Bison
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-bison_i.png
+            [type] => SPG
+            [id] => Bison_I
+        )
+
+    [127] => stdClass Object
+        (
+            [name] => Wespe
+            [level] => 3
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-wespe.png
+            [type] => SPG
+            [id] => Wespe
+        )
+
+    [128] => stdClass Object
+        (
+            [name] => Sturmpanzer II
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-sturmpanzer_ii.png
+            [type] => SPG
+            [id] => Sturmpanzer_II
+        )
+
+    [129] => stdClass Object
+        (
+            [name] => Pz.Sfl. IVb
+            [level] => 4
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-pz_sfl_ivb.png
+            [type] => SPG
+            [id] => Pz_Sfl_IVb
+        )
+
+    [130] => stdClass Object
+        (
+            [name] => Grille
+            [level] => 5
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-grille.png
+            [type] => SPG
+            [id] => Grille
+        )
+
+    [131] => stdClass Object
+        (
+            [name] => Hummel
+            [level] => 6
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-hummel.png
+            [type] => SPG
+            [id] => Hummel
+        )
+
+    [132] => stdClass Object
+        (
+            [name] => G.W. Panther
+            [level] => 7
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-g_panther.png
+            [type] => SPG
+            [id] => G_Panther
+        )
+
+    [133] => stdClass Object
+        (
+            [name] => G.W. Tiger (P)
+            [level] => 8
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-gw_tiger_p.png
+            [type] => SPG
+            [id] => GW_Tiger_P
+        )
+
+    [134] => stdClass Object
+        (
+            [name] => G.W. Tiger
+            [level] => 9
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-g_tiger.png
+            [type] => SPG
+            [id] => G_Tiger
+        )
+
+    [135] => stdClass Object
+        (
+            [name] => G.W. E 100
+            [level] => 10
+            [nation] => germany
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/germany-g_e.png
+            [type] => SPG
+            [id] => G_E
+        )
+
+    [136] => stdClass Object
+        (
+            [name] => T1 Cunningham
+            [level] => 1
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t1_cunningham.png
+            [type] => lightTank
+            [id] => T1_Cunningham
+        )
+
+    [137] => stdClass Object
+        (
+            [name] => M2 Light Tank
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m2_lt.png
+            [type] => lightTank
+            [id] => M2_lt
+        )
+
+    [138] => stdClass Object
+        (
+            [name] => T2 Light Tank
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t2_lt.png
+            [type] => lightTank
+            [id] => T2_lt
+        )
+
+    [139] => stdClass Object
+        (
+            [name] => T1E6
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t1_e6.png
+            [type] => lightTank
+            [id] => T1_E6
+        )
+
+    [140] => stdClass Object
+        (
+            [name] => M3 Stuart
+            [level] => 3
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m3_stuart.png
+            [type] => lightTank
+            [id] => M3_Stuart
+        )
+
+    [141] => stdClass Object
+        (
+            [name] => M22 Locust
+            [level] => 3
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m22_locust.png
+            [type] => lightTank
+            [id] => M22_Locust
+        )
+
+    [142] => stdClass Object
+        (
+            [name] => M5 Stuart
+            [level] => 4
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m5_stuart.png
+            [type] => lightTank
+            [id] => M5_Stuart
+        )
+
+    [143] => stdClass Object
+        (
+            [name] => M24 Chaffee
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m24_chaffee.png
+            [type] => lightTank
+            [id] => M24_Chaffee
+        )
+
+    [144] => stdClass Object
+        (
+            [name] => T21
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t21.png
+            [type] => lightTank
+            [id] => T21
+        )
+
+    [145] => stdClass Object
+        (
+            [name] => T71
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t71.png
+            [type] => lightTank
+            [id] => T71
+        )
+
+    [146] => stdClass Object
+        (
+            [name] => T2 Medium Tank
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t2_med.png
+            [type] => mediumTank
+            [id] => T2_med
+        )
+
+    [147] => stdClass Object
+        (
+            [name] => M2 Medium Tank
+            [level] => 3
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m2_med.png
+            [type] => mediumTank
+            [id] => M2_med
+        )
+
+    [148] => stdClass Object
+        (
+            [name] => M3 Lee
+            [level] => 4
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m3_grant.png
+            [type] => mediumTank
+            [id] => M3_Grant
+        )
+
+    [149] => stdClass Object
+        (
+            [name] => M4 Sherman
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m4_sherman.png
+            [type] => mediumTank
+            [id] => M4_Sherman
+        )
+
+    [150] => stdClass Object
+        (
+            [name] => M7
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m7_med.png
+            [type] => mediumTank
+            [id] => M7_med
+        )
+
+    [151] => stdClass Object
+        (
+            [name] => Ram II
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-ram-ii.png
+            [type] => mediumTank
+            [id] => Ram-II
+        )
+
+    [152] => stdClass Object
+        (
+            [name] => M4A3E8 Sherman
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m4a3e8_sherman.png
+            [type] => mediumTank
+            [id] => M4A3E8_Sherman
+        )
+
+    [153] => stdClass Object
+        (
+            [name] => M4A3E2 Sherman Jumbo
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-sherman_jumbo.png
+            [type] => mediumTank
+            [id] => Sherman_Jumbo
+        )
+
+    [154] => stdClass Object
+        (
+            [name] => T20
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t20.png
+            [type] => mediumTank
+            [id] => T20
+        )
+
+    [155] => stdClass Object
+        (
+            [name] => M26 Pershing
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-pershing.png
+            [type] => mediumTank
+            [id] => Pershing
+        )
+
+    [156] => stdClass Object
+        (
+            [name] => T26E4 SuperPershing
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t26_e4_superpershing.png
+            [type] => mediumTank
+            [id] => T26_E4_SuperPershing
+        )
+
+    [157] => stdClass Object
+        (
+            [name] => T69
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t69.png
+            [type] => mediumTank
+            [id] => T69
+        )
+
+    [158] => stdClass Object
+        (
+            [name] => M46 Patton
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m46_patton.png
+            [type] => mediumTank
+            [id] => M46_Patton
+        )
+
+    [159] => stdClass Object
+        (
+            [name] => T54E1
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t54e1.png
+            [type] => mediumTank
+            [id] => T54E1
+        )
+
+    [160] => stdClass Object
+        (
+            [name] => M48A1 Patton
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m48a1.png
+            [type] => mediumTank
+            [id] => M48A1
+        )
+
+    [161] => stdClass Object
+        (
+            [name] => T14
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t14.png
+            [type] => heavyTank
+            [id] => T14
+        )
+
+    [162] => stdClass Object
+        (
+            [name] => T1 Heavy Tank
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t1_hvy.png
+            [type] => heavyTank
+            [id] => T1_hvy
+        )
+
+    [163] => stdClass Object
+        (
+            [name] => M6
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m6.png
+            [type] => heavyTank
+            [id] => M6
+        )
+
+    [164] => stdClass Object
+        (
+            [name] => T29
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t29.png
+            [type] => heavyTank
+            [id] => T29
+        )
+
+    [165] => stdClass Object
+        (
+            [name] => T34
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t34_hvy.png
+            [type] => heavyTank
+            [id] => T34_hvy
+        )
+
+    [166] => stdClass Object
+        (
+            [name] => T32
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t32.png
+            [type] => heavyTank
+            [id] => T32
+        )
+
+    [167] => stdClass Object
+        (
+            [name] => M103
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m103.png
+            [type] => heavyTank
+            [id] => M103
+        )
+
+    [168] => stdClass Object
+        (
+            [name] => T110E5
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t110.png
+            [type] => heavyTank
+            [id] => T110
+        )
+
+    [169] => stdClass Object
+        (
+            [name] => T57 Heavy Tank
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t57_58.png
+            [type] => heavyTank
+            [id] => T57_58
+        )
+
+    [170] => stdClass Object
+        (
+            [name] => T18
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t18.png
+            [type] => AT-SPG
+            [id] => T18
+        )
+
+    [171] => stdClass Object
+        (
+            [name] => T82
+            [level] => 3
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t82.png
+            [type] => AT-SPG
+            [id] => T82
+        )
+
+    [172] => stdClass Object
+        (
+            [name] => T40
+            [level] => 4
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t40.png
+            [type] => AT-SPG
+            [id] => T40
+        )
+
+    [173] => stdClass Object
+        (
+            [name] => M8A1
+            [level] => 4
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m8a1.png
+            [type] => AT-SPG
+            [id] => M8A1
+        )
+
+    [174] => stdClass Object
+        (
+            [name] => M10 Wolverine
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m10_wolverine.png
+            [type] => AT-SPG
+            [id] => M10_Wolverine
+        )
+
+    [175] => stdClass Object
+        (
+            [name] => T49
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t49.png
+            [type] => AT-SPG
+            [id] => T49
+        )
+
+    [176] => stdClass Object
+        (
+            [name] => M36 Jackson
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m36_slagger.png
+            [type] => AT-SPG
+            [id] => M36_Slagger
+        )
+
+    [177] => stdClass Object
+        (
+            [name] => M18 Hellcat
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m18_hellcat.png
+            [type] => AT-SPG
+            [id] => M18_Hellcat
+        )
+
+    [178] => stdClass Object
+        (
+            [name] => T25 AT
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t25_at.png
+            [type] => AT-SPG
+            [id] => T25_AT
+        )
+
+    [179] => stdClass Object
+        (
+            [name] => T25/2
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t25_2.png
+            [type] => AT-SPG
+            [id] => T25_2
+        )
+
+    [180] => stdClass Object
+        (
+            [name] => T28
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t28.png
+            [type] => AT-SPG
+            [id] => T28
+        )
+
+    [181] => stdClass Object
+        (
+            [name] => T28 Prototype
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t28_prototype.png
+            [type] => AT-SPG
+            [id] => T28_Prototype
+        )
+
+    [182] => stdClass Object
+        (
+            [name] => T30
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t30.png
+            [type] => AT-SPG
+            [id] => T30
+        )
+
+    [183] => stdClass Object
+        (
+            [name] => T95
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t95.png
+            [type] => AT-SPG
+            [id] => T95
+        )
+
+    [184] => stdClass Object
+        (
+            [name] => T110E4
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t110e4.png
+            [type] => AT-SPG
+            [id] => T110E4
+        )
+
+    [185] => stdClass Object
+        (
+            [name] => T110E3
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t110e3.png
+            [type] => AT-SPG
+            [id] => T110E3
+        )
+
+    [186] => stdClass Object
+        (
+            [name] => T57
+            [level] => 2
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t57.png
+            [type] => SPG
+            [id] => T57
+        )
+
+    [187] => stdClass Object
+        (
+            [name] => M7 Priest
+            [level] => 3
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m7_priest.png
+            [type] => SPG
+            [id] => M7_Priest
+        )
+
+    [188] => stdClass Object
+        (
+            [name] => M37
+            [level] => 4
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m37.png
+            [type] => SPG
+            [id] => M37
+        )
+
+    [189] => stdClass Object
+        (
+            [name] => M41
+            [level] => 5
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m41.png
+            [type] => SPG
+            [id] => M41
+        )
+
+    [190] => stdClass Object
+        (
+            [name] => M44
+            [level] => 6
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m44.png
+            [type] => SPG
+            [id] => M44
+        )
+
+    [191] => stdClass Object
+        (
+            [name] => M12
+            [level] => 7
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m12.png
+            [type] => SPG
+            [id] => M12
+        )
+
+    [192] => stdClass Object
+        (
+            [name] => M40/M43
+            [level] => 8
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m40m43.png
+            [type] => SPG
+            [id] => M40M43
+        )
+
+    [193] => stdClass Object
+        (
+            [name] => M53/M55
+            [level] => 9
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-m53_55.png
+            [type] => SPG
+            [id] => M53_55
+        )
+
+    [194] => stdClass Object
+        (
+            [name] => T92
+            [level] => 10
+            [nation] => usa
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/usa-t92.png
+            [type] => SPG
+            [id] => T92
+        )
+
+    [195] => stdClass Object
+        (
+            [name] => Renault FT
+            [level] => 1
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-renaultft.png
+            [type] => lightTank
+            [id] => RenaultFT
+        )
+
+    [196] => stdClass Object
+        (
+            [name] => Hotchkiss H35
+            [level] => 2
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-hotchkiss_h35.png
+            [type] => lightTank
+            [id] => Hotchkiss_H35
+        )
+
+    [197] => stdClass Object
+        (
+            [name] => D1
+            [level] => 2
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-d1.png
+            [type] => lightTank
+            [id] => D1
+        )
+
+    [198] => stdClass Object
+        (
+            [name] => AMX 38
+            [level] => 3
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx38.png
+            [type] => lightTank
+            [id] => AMX38
+        )
+
+    [199] => stdClass Object
+        (
+            [name] => AMX 40
+            [level] => 4
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx40.png
+            [type] => lightTank
+            [id] => AMX40
+        )
+
+    [200] => stdClass Object
+        (
+            [name] => ELC AMX
+            [level] => 5
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-elc_amx.png
+            [type] => lightTank
+            [id] => ELC_AMX
+        )
+
+    [201] => stdClass Object
+        (
+            [name] => AMX 12 t
+            [level] => 6
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_12t.png
+            [type] => lightTank
+            [id] => AMX_12t
+        )
+
+    [202] => stdClass Object
+        (
+            [name] => AMX 13 75
+            [level] => 7
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_13_75.png
+            [type] => lightTank
+            [id] => AMX_13_75
+        )
+
+    [203] => stdClass Object
+        (
+            [name] => AMX 13 90
+            [level] => 8
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_13_90.png
+            [type] => lightTank
+            [id] => AMX_13_90
+        )
+
+    [204] => stdClass Object
+        (
+            [name] => D2
+            [level] => 3
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-d2.png
+            [type] => mediumTank
+            [id] => D2
+        )
+
+    [205] => stdClass Object
+        (
+            [name] => Lorraine 40 t
+            [level] => 9
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-lorraine40t.png
+            [type] => mediumTank
+            [id] => Lorraine40t
+        )
+
+    [206] => stdClass Object
+        (
+            [name] => Bat.-Châtillon 25 t
+            [level] => 10
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-bat_chatillon25t.png
+            [type] => mediumTank
+            [id] => Bat_Chatillon25t
+        )
+
+    [207] => stdClass Object
+        (
+            [name] => B1
+            [level] => 4
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-b1.png
+            [type] => heavyTank
+            [id] => B1
+        )
+
+    [208] => stdClass Object
+        (
+            [name] => BDR G1 B
+            [level] => 5
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-bdr_g1b.png
+            [type] => heavyTank
+            [id] => BDR_G1B
+        )
+
+    [209] => stdClass Object
+        (
+            [name] => ARL 44
+            [level] => 6
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-arl_44.png
+            [type] => heavyTank
+            [id] => ARL_44
+        )
+
+    [210] => stdClass Object
+        (
+            [name] => AMX M4 mle. 45
+            [level] => 7
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_m4_1945.png
+            [type] => heavyTank
+            [id] => AMX_M4_1945
+        )
+
+    [211] => stdClass Object
+        (
+            [name] => AMX 50 100
+            [level] => 8
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_50_100.png
+            [type] => heavyTank
+            [id] => AMX_50_100
+        )
+
+    [212] => stdClass Object
+        (
+            [name] => FCM 50 t
+            [level] => 8
+            [nation] => france
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-fcm_50t.png
+            [type] => heavyTank
+            [id] => FCM_50t
+        )
+
+    [213] => stdClass Object
+        (
+            [name] => AMX 50 120
+            [level] => 9
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_50_120.png
+            [type] => heavyTank
+            [id] => AMX_50_120
+        )
+
+    [214] => stdClass Object
+        (
+            [name] => AMX 50 B
+            [level] => 10
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-f10_amx_50b.png
+            [type] => heavyTank
+            [id] => F10_AMX_50B
+        )
+
+    [215] => stdClass Object
+        (
+            [name] => Renault FT AC
+            [level] => 2
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-renaultft_ac.png
+            [type] => AT-SPG
+            [id] => RenaultFT_AC
+        )
+
+    [216] => stdClass Object
+        (
+            [name] => FCM 36 Pak 40
+            [level] => 3
+            [nation] => france
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-fcm_36pak40.png
+            [type] => AT-SPG
+            [id] => FCM_36Pak40
+        )
+
+    [217] => stdClass Object
+        (
+            [name] => Renault UE 57
+            [level] => 3
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-renaultue57.png
+            [type] => AT-SPG
+            [id] => RenaultUE57
+        )
+
+    [218] => stdClass Object
+        (
+            [name] => Somua SAu 40
+            [level] => 4
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-somua_sau_40.png
+            [type] => AT-SPG
+            [id] => Somua_Sau_40
+        )
+
+    [219] => stdClass Object
+        (
+            [name] => S35 CA
+            [level] => 5
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-s_35ca.png
+            [type] => AT-SPG
+            [id] => S_35CA
+        )
+
+    [220] => stdClass Object
+        (
+            [name] => ARL V39
+            [level] => 6
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-arl_v39.png
+            [type] => AT-SPG
+            [id] => ARL_V39
+        )
+
+    [221] => stdClass Object
+        (
+            [name] => AMX AC mle. 46
+            [level] => 7
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_ac_mle1946.png
+            [type] => AT-SPG
+            [id] => AMX_AC_Mle1946
+        )
+
+    [222] => stdClass Object
+        (
+            [name] => AMX AC mle. 48
+            [level] => 8
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_ac_mle1948.png
+            [type] => AT-SPG
+            [id] => AMX_AC_Mle1948
+        )
+
+    [223] => stdClass Object
+        (
+            [name] => AMX 50 Foch
+            [level] => 9
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx50_foch.png
+            [type] => AT-SPG
+            [id] => AMX50_Foch
+        )
+
+    [224] => stdClass Object
+        (
+            [name] => AMX 50 Foch (155)
+            [level] => 10
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_50fosh_155.png
+            [type] => AT-SPG
+            [id] => AMX_50Fosh_155
+        )
+
+    [225] => stdClass Object
+        (
+            [name] => Renault FT 75 BS
+            [level] => 2
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-renaultbs.png
+            [type] => SPG
+            [id] => RenaultBS
+        )
+
+    [226] => stdClass Object
+        (
+            [name] => Lorraine 39L AM
+            [level] => 3
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-lorraine39_l_am.png
+            [type] => SPG
+            [id] => Lorraine39_L_AM
+        )
+
+    [227] => stdClass Object
+        (
+            [name] => AMX 105 AM mle. 47
+            [level] => 4
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_ob_am105.png
+            [type] => SPG
+            [id] => AMX_Ob_Am105
+        )
+
+    [228] => stdClass Object
+        (
+            [name] => 105 leFH18B2
+            [level] => 5
+            [nation] => france
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-_105_lefh18b2.png
+            [type] => SPG
+            [id] => _105_leFH18B2
+        )
+
+    [229] => stdClass Object
+        (
+            [name] => AMX 13 105 AM mle. 50
+            [level] => 5
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_105am.png
+            [type] => SPG
+            [id] => AMX_105AM
+        )
+
+    [230] => stdClass Object
+        (
+            [name] => AMX 13 F3 AM
+            [level] => 6
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-amx_13f3am.png
+            [type] => SPG
+            [id] => AMX_13F3AM
+        )
+
+    [231] => stdClass Object
+        (
+            [name] => Lorraine 155 mle. 50
+            [level] => 7
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-lorraine155_50.png
+            [type] => SPG
+            [id] => Lorraine155_50
+        )
+
+    [232] => stdClass Object
+        (
+            [name] => Lorraine 155 mle. 51
+            [level] => 8
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-lorraine155_51.png
+            [type] => SPG
+            [id] => Lorraine155_51
+        )
+
+    [233] => stdClass Object
+        (
+            [name] => Bat.-Châtillon 155 55
+            [level] => 9
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-bat_chatillon155_55.png
+            [type] => SPG
+            [id] => Bat_Chatillon155_55
+        )
+
+    [234] => stdClass Object
+        (
+            [name] => Bat.-Châtillon 155 58
+            [level] => 10
+            [nation] => france
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/france-bat_chatillon155_58.png
+            [type] => SPG
+            [id] => Bat_Chatillon155_58
+        )
+
+    [235] => stdClass Object
+        (
+            [name] => Cruiser Mk. I
+            [level] => 2
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb03_cruiser_mk_i.png
+            [type] => lightTank
+            [id] => GB03_Cruiser_Mk_I
+        )
+
+    [236] => stdClass Object
+        (
+            [name] => Cruiser Mk. III
+            [level] => 2
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb58_cruiser_mk_iii.png
+            [type] => lightTank
+            [id] => GB58_Cruiser_Mk_III
+        )
+
+    [237] => stdClass Object
+        (
+            [name] => Cruiser Mk. II
+            [level] => 3
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb69_cruiser_mk_ii.png
+            [type] => lightTank
+            [id] => GB69_Cruiser_Mk_II
+        )
+
+    [238] => stdClass Object
+        (
+            [name] => Cruiser Mk. IV
+            [level] => 3
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb59_cruiser_mk_iv.png
+            [type] => lightTank
+            [id] => GB59_Cruiser_Mk_IV
+        )
+
+    [239] => stdClass Object
+        (
+            [name] => Valentine
+            [level] => 4
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb04_valentine.png
+            [type] => lightTank
+            [id] => GB04_Valentine
+        )
+
+    [240] => stdClass Object
+        (
+            [name] => Covenanter
+            [level] => 4
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb60_covenanter.png
+            [type] => lightTank
+            [id] => GB60_Covenanter
+        )
+
+    [241] => stdClass Object
+        (
+            [name] => Crusader
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb20_crusader.png
+            [type] => lightTank
+            [id] => GB20_Crusader
+        )
+
+    [242] => stdClass Object
+        (
+            [name] => Vickers Medium Mk. I
+            [level] => 1
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb01_medium_mark_i.png
+            [type] => mediumTank
+            [id] => GB01_Medium_Mark_I
+        )
+
+    [243] => stdClass Object
+        (
+            [name] => Vickers Medium Mk. II
+            [level] => 2
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb05_vickers_medium_mk_ii.png
+            [type] => mediumTank
+            [id] => GB05_Vickers_Medium_Mk_II
+        )
+
+    [244] => stdClass Object
+        (
+            [name] => Vickers Medium Mk. III
+            [level] => 3
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb06_vickers_medium_mk_iii.png
+            [type] => mediumTank
+            [id] => GB06_Vickers_Medium_Mk_III
+        )
+
+    [245] => stdClass Object
+        (
+            [name] => Matilda
+            [level] => 4
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb07_matilda.png
+            [type] => mediumTank
+            [id] => GB07_Matilda
+        )
+
+    [246] => stdClass Object
+        (
+            [name] => Matilda Black Prince
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb68_matilda_black_prince.png
+            [type] => mediumTank
+            [id] => GB68_Matilda_Black_Prince
+        )
+
+    [247] => stdClass Object
+        (
+            [name] => Cromwell
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb21_cromwell.png
+            [type] => mediumTank
+            [id] => GB21_Cromwell
+        )
+
+    [248] => stdClass Object
+        (
+            [name] => Comet
+            [level] => 7
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb22_comet.png
+            [type] => mediumTank
+            [id] => GB22_Comet
+        )
+
+    [249] => stdClass Object
+        (
+            [name] => Centurion Mk. I
+            [level] => 8
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb23_centurion.png
+            [type] => mediumTank
+            [id] => GB23_Centurion
+        )
+
+    [250] => stdClass Object
+        (
+            [name] => Centurion Mk. 7/1
+            [level] => 9
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb24_centurion_mk3.png
+            [type] => mediumTank
+            [id] => GB24_Centurion_Mk3
+        )
+
+    [251] => stdClass Object
+        (
+            [name] => FV4202
+            [level] => 10
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb70_fv4202_105.png
+            [type] => mediumTank
+            [id] => GB70_FV4202_105
+        )
+
+    [252] => stdClass Object
+        (
+            [name] => Churchill I
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb08_churchill_i.png
+            [type] => heavyTank
+            [id] => GB08_Churchill_I
+        )
+
+    [253] => stdClass Object
+        (
+            [name] => Excelsior
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb51_excelsior.png
+            [type] => heavyTank
+            [id] => GB51_Excelsior
+        )
+
+    [254] => stdClass Object
+        (
+            [name] => Churchill VII
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb09_churchill_vii.png
+            [type] => heavyTank
+            [id] => GB09_Churchill_VII
+        )
+
+    [255] => stdClass Object
+        (
+            [name] => TOG II*
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb63_tog_ii.png
+            [type] => heavyTank
+            [id] => GB63_TOG_II
+        )
+
+    [256] => stdClass Object
+        (
+            [name] => Black Prince
+            [level] => 7
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb10_black_prince.png
+            [type] => heavyTank
+            [id] => GB10_Black_Prince
+        )
+
+    [257] => stdClass Object
+        (
+            [name] => Caernarvon
+            [level] => 8
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb11_caernarvon.png
+            [type] => heavyTank
+            [id] => GB11_Caernarvon
+        )
+
+    [258] => stdClass Object
+        (
+            [name] => Conqueror
+            [level] => 9
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb12_conqueror.png
+            [type] => heavyTank
+            [id] => GB12_Conqueror
+        )
+
+    [259] => stdClass Object
+        (
+            [name] => FV215b
+            [level] => 10
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb13_fv215b.png
+            [type] => heavyTank
+            [id] => GB13_FV215b
+        )
+
+    [260] => stdClass Object
+        (
+            [name] => Universal Carrier 2-pdr
+            [level] => 2
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb39_universal_carrierqf2.png
+            [type] => AT-SPG
+            [id] => GB39_Universal_CarrierQF2
+        )
+
+    [261] => stdClass Object
+        (
+            [name] => Valentine AT
+            [level] => 3
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb42_valentine_at.png
+            [type] => AT-SPG
+            [id] => GB42_Valentine_AT
+        )
+
+    [262] => stdClass Object
+        (
+            [name] => Alecto
+            [level] => 4
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb57_alecto.png
+            [type] => AT-SPG
+            [id] => GB57_Alecto
+        )
+
+    [263] => stdClass Object
+        (
+            [name] => AT 2
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb73_at2.png
+            [type] => AT-SPG
+            [id] => GB73_AT2
+        )
+
+    [264] => stdClass Object
+        (
+            [name] => AT 8
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb74_at8.png
+            [type] => AT-SPG
+            [id] => GB74_AT8
+        )
+
+    [265] => stdClass Object
+        (
+            [name] => Churchill Gun Carrier
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb40_gun_carrier_churchill.png
+            [type] => AT-SPG
+            [id] => GB40_Gun_Carrier_Churchill
+        )
+
+    [266] => stdClass Object
+        (
+            [name] => AT 7
+            [level] => 7
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb75_at7.png
+            [type] => AT-SPG
+            [id] => GB75_AT7
+        )
+
+    [267] => stdClass Object
+        (
+            [name] => AT 15A
+            [level] => 7
+            [nation] => uk
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb71_at_15a.png
+            [type] => AT-SPG
+            [id] => GB71_AT_15A
+        )
+
+    [268] => stdClass Object
+        (
+            [name] => AT 15
+            [level] => 8
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb72_at15.png
+            [type] => AT-SPG
+            [id] => GB72_AT15
+        )
+
+    [269] => stdClass Object
+        (
+            [name] => Tortoise
+            [level] => 9
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb32_tortoise.png
+            [type] => AT-SPG
+            [id] => GB32_Tortoise
+        )
+
+    [270] => stdClass Object
+        (
+            [name] => FV215b (183)
+            [level] => 10
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb48_fv215b_183.png
+            [type] => AT-SPG
+            [id] => GB48_FV215b_183
+        )
+
+    [271] => stdClass Object
+        (
+            [name] => Loyd Gun Carriage
+            [level] => 2
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb25_loyd_carrier.png
+            [type] => SPG
+            [id] => GB25_Loyd_Carrier
+        )
+
+    [272] => stdClass Object
+        (
+            [name] => Sexton II
+            [level] => 3
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb27_sexton.png
+            [type] => SPG
+            [id] => GB27_Sexton
+        )
+
+    [273] => stdClass Object
+        (
+            [name] => Birch Gun
+            [level] => 4
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb26_birch_gun.png
+            [type] => SPG
+            [id] => GB26_Birch_Gun
+        )
+
+    [274] => stdClass Object
+        (
+            [name] => Bishop
+            [level] => 5
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb28_bishop.png
+            [type] => SPG
+            [id] => GB28_Bishop
+        )
+
+    [275] => stdClass Object
+        (
+            [name] => FV304
+            [level] => 6
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb77_fv304.png
+            [type] => SPG
+            [id] => GB77_FV304
+        )
+
+    [276] => stdClass Object
+        (
+            [name] => Crusader 5.5-in. SP
+            [level] => 7
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb29_crusader_5inch.png
+            [type] => SPG
+            [id] => GB29_Crusader_5inch
+        )
+
+    [277] => stdClass Object
+        (
+            [name] => FV207
+            [level] => 8
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb79_fv206.png
+            [type] => SPG
+            [id] => GB79_FV206
+        )
+
+    [278] => stdClass Object
+        (
+            [name] => FV3805
+            [level] => 9
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb30_fv3805.png
+            [type] => SPG
+            [id] => GB30_FV3805
+        )
+
+    [279] => stdClass Object
+        (
+            [name] => Conqueror Gun Carriage
+            [level] => 10
+            [nation] => uk
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/uk-gb31_conqueror_gun.png
+            [type] => SPG
+            [id] => GB31_Conqueror_Gun
+        )
+
+    [280] => stdClass Object
+        (
+            [name] => Renault NC-31
+            [level] => 1
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch06_renault_nc31.png
+            [type] => lightTank
+            [id] => Ch06_Renault_NC31
+        )
+
+    [281] => stdClass Object
+        (
+            [name] => Vickers Mk. E Type B
+            [level] => 2
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch07_vickers_mke_type_bt26.png
+            [type] => lightTank
+            [id] => Ch07_Vickers_MkE_Type_BT26
+        )
+
+    [282] => stdClass Object
+        (
+            [name] => Type 2597 Chi-Ha
+            [level] => 3
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch08_type97_chi_ha.png
+            [type] => lightTank
+            [id] => Ch08_Type97_Chi_Ha
+        )
+
+    [283] => stdClass Object
+        (
+            [name] => M5A1 Stuart
+            [level] => 4
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch09_m5.png
+            [type] => lightTank
+            [id] => Ch09_M5
+        )
+
+    [284] => stdClass Object
+        (
+            [name] => 59-16
+            [level] => 6
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch15_59_16.png
+            [type] => lightTank
+            [id] => Ch15_59_16
+        )
+
+    [285] => stdClass Object
+        (
+            [name] => Type 62
+            [level] => 7
+            [nation] => china
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch02_type62.png
+            [type] => lightTank
+            [id] => Ch02_Type62
+        )
+
+    [286] => stdClass Object
+        (
+            [name] => WZ-131
+            [level] => 7
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch16_wz_131.png
+            [type] => lightTank
+            [id] => Ch16_WZ_131
+        )
+
+    [287] => stdClass Object
+        (
+            [name] => WZ-132
+            [level] => 8
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch17_wz131_1_wz132.png
+            [type] => lightTank
+            [id] => Ch17_WZ131_1_WZ132
+        )
+
+    [288] => stdClass Object
+        (
+            [name] => Type T-34
+            [level] => 5
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch21_t34.png
+            [type] => mediumTank
+            [id] => Ch21_T34
+        )
+
+    [289] => stdClass Object
+        (
+            [name] => Type 58
+            [level] => 6
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch20_type58.png
+            [type] => mediumTank
+            [id] => Ch20_Type58
+        )
+
+    [290] => stdClass Object
+        (
+            [name] => T-34-1
+            [level] => 7
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch04_t34_1.png
+            [type] => mediumTank
+            [id] => Ch04_T34_1
+        )
+
+    [291] => stdClass Object
+        (
+            [name] => Type 59
+            [level] => 8
+            [nation] => china
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch01_type59.png
+            [type] => mediumTank
+            [id] => Ch01_Type59
+        )
+
+    [292] => stdClass Object
+        (
+            [name] => T-34-2
+            [level] => 8
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch05_t34_2.png
+            [type] => mediumTank
+            [id] => Ch05_T34_2
+        )
+
+    [293] => stdClass Object
+        (
+            [name] => T-34-3
+            [level] => 8
+            [nation] => china
+            [is_premium] => 1
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch14_t34_3.png
+            [type] => mediumTank
+            [id] => Ch14_T34_3
+        )
+
+    [294] => stdClass Object
+        (
+            [name] => WZ-120
+            [level] => 9
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch18_wz-120.png
+            [type] => mediumTank
+            [id] => Ch18_WZ-120
+        )
+
+    [295] => stdClass Object
+        (
+            [name] => 121
+            [level] => 10
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch19_121.png
+            [type] => mediumTank
+            [id] => Ch19_121
+        )
+
+    [296] => stdClass Object
+        (
+            [name] => IS-2
+            [level] => 7
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch10_is2.png
+            [type] => heavyTank
+            [id] => Ch10_IS2
+        )
+
+    [297] => stdClass Object
+        (
+            [name] => 110
+            [level] => 8
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch11_110.png
+            [type] => heavyTank
+            [id] => Ch11_110
+        )
+
+    [298] => stdClass Object
+        (
+            [name] => WZ-111 model 1-4
+            [level] => 9
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch12_111_1_2_3.png
+            [type] => heavyTank
+            [id] => Ch12_111_1_2_3
+        )
+
+    [299] => stdClass Object
+        (
+            [name] => 113
+            [level] => 10
+            [nation] => china
+            [is_premium] => 
+            [contour_image] => /static/2.5.2/encyclopedia/tankopedia/vehicle/contour/china-ch22_113.png
+            [type] => heavyTank
+            [id] => Ch22_113
+        )
+
+)
