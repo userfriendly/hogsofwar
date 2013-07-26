@@ -20,7 +20,6 @@ class UpdateCommand extends ContainerAwareCommand
     const URL_VEHICLES = "http://api.worldoftanks.eu/encyclopedia/vehicles/api/1.0/?source_token=WG-WoT_Assistant-1.3.2";
     const URL_CLAN = "http://api.worldoftanks.eu/uc/clans/%%CLAN_ID%%/api/1.1/?source_token=WG-WoT_Assistant-1.3.2";
     const URL_PLAYER = "http://api.worldoftanks.eu/uc/accounts/%%ACCOUNT_ID%%/api/1.8/?source_token=WG-WoT_Assistant-1.3.2";
-    const URL_PLAYER_ALT = "http://dvstats.wargaming.net/userstats/2/stats/slice/?platform=android&server=eu&account_id=%%ACCOUNT_ID%%&hours_ago=0";
 
     public function configure()
     {
