@@ -41,10 +41,23 @@ class PlayedVehicle
     protected $wins;
 
     /**
+     * @ORM\Column(type="boolean")
+     */
+    protected $active;
+
+    /**
      * @ORM\Column(name="updated_at",type="datetime")
      * @Gedmo\Timestampable(on="update")
      */
     protected $updatedAt;
+
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->active = true;
+    }
 
     /**
      * Get id
@@ -98,6 +111,28 @@ class PlayedVehicle
     public function getWins()
     {
         return $this->wins;
+    }
+
+    /**
+     * Set active
+     *
+     * @param boolean $active
+     * @return \Hogs\ApplicationBundle\Entity\Member
+     */
+    public function setActive( $active )
+    {
+        $this->active = $active;
+        return $this;
+    }
+
+    /**
+     * Get active
+     *
+     * @return boolean
+     */
+    public function getActive()
+    {
+        return $this->active;
     }
 
     /**

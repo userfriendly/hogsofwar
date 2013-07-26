@@ -58,6 +58,7 @@ class MemberRepository extends EntityRepository
             $wins = trim( $playedVehicleData->win_count );
             if ( $playedVehicle->getBattles() < $battles )
             {
+                $playedVehicle->setActive( true );
                 $playedVehicle->setBattles( $battles );
                 $playedVehicle->setWins( $wins );
             }
