@@ -3,6 +3,7 @@
 namespace Hogs\ApplicationBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Gedmo\Mapping\Annotation as Gedmo;
 use Hogs\ApplicationBundle\Entity\Member;
 use Hogs\ApplicationBundle\Entity\Vehicle;
 
@@ -40,9 +41,10 @@ class PlayedVehicle
     protected $wins;
 
     /**
-     * @ORM\Column(type="date", name="played_at")
+     * @ORM\Column(name="updated_at",type="datetime")
+     * @Gedmo\Timestampable(on="update")
      */
-    protected $playedAt;
+    protected $updatedAt;
 
     /**
      * Get id
@@ -99,25 +101,25 @@ class PlayedVehicle
     }
 
     /**
-     * Set playedAt
+     * Set updatedAt
      *
-     * @param \DateTime $playedAt
-     * @return \Hogs\ApplicationBundle\Entity\PlayedVehicle
+     * @param \DateTime $updatedAt
+     * @return \Hogs\ApplicationBundle\Entity\Member
      */
-    public function setPlayedAt( $playedAt )
+    public function setUpdatedAt( $updatedAt )
     {
-        $this->playedAt = $playedAt;
+        $this->updatedAt = $updatedAt;
         return $this;
     }
 
     /**
-     * Get playedAt
+     * Get updatedAt
      *
      * @return \DateTime
      */
-    public function getPlayedAt()
+    public function getUpdatedAt()
     {
-        return $this->playedAt;
+        return $this->updatedAt;
     }
 
     /**

@@ -7,7 +7,7 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Hogs\ApplicationBundle\Entity\PlayedVehicle;
 
 /**
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="Hogs\ApplicationBundle\Entity\Repository\VehicleRepository")
  * @ORM\Table(name="wot__vehicle")
  */
 class Vehicle
@@ -53,9 +53,14 @@ class Vehicle
     protected $nation;
 
     /**
-     * @ORM\Column(type="string", name="contour_url")
+     * @ORM\Column(type="string", name="contour_url", nullable=true)
      */
     protected $contourUrl;
+
+    /**
+     * @ORM\Column(type="string", name="image_url", nullable=true)
+     */
+    protected $imageUrl;
 
     /**
      * @ORM\Column(type="boolean")
@@ -73,7 +78,6 @@ class Vehicle
     public function __construct()
     {
         $this->playedVehicles = new ArrayCollection();
-        $this->premium = false;
     }
 
     /**
@@ -194,6 +198,28 @@ class Vehicle
     public function getContourUrl()
     {
         return $this->contourUrl;
+    }
+
+    /**
+     * Set imageUrl
+     *
+     * @param string $imageUrl
+     * @return \Hogs\ApplicationBundle\Entity\Vehicle
+     */
+    public function setImageUrl( $imageUrl )
+    {
+        $this->imageUrl = $imageUrl;
+        return $this;
+    }
+
+    /**
+     * Get imageUrl
+     *
+     * @return string
+     */
+    public function getImageUrl()
+    {
+        return $this->imageUrl;
     }
 
     /**
